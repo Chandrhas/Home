@@ -1,0 +1,6 @@
+{
+  "name": "HomeFix",
+  "description": "HomeFix - Your Home Our Service. Professional, reliable, and affordable home services for electricians, plumbers, appliances, cleaning, and more with live booking, wallet, and tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
